@@ -11,6 +11,12 @@ website:
         href: https://linkedin.com
     right:
       - about.qmd
+      - text: Softwares
+        href: softwares.qmd
+      - text: Skill Sets
+        href: skillsets.qmd
+      - text: Work
+        href: work.qmd
       - text: Projects
         href: projects.qmd
       - text: CV

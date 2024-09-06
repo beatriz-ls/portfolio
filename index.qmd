@@ -6,5 +6,20 @@ format:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h1 style="font-size: 4rem; text-align: center;">Beatriz Lima</h1>
+  <h1 style="font-size: 4rem; text-align: center;"> Hello,
+  I'm Beatriz !</h1>
 </div>
+
+
+
+## Softwares {#softwares-section}
+<!-- Conteúdo da seção Softwares vai aqui -->
+Conteúdo de Softwares.
+
+## Skill Sets {#skillsets-section}
+<!-- Conteúdo da seção Skill Sets vai aqui -->
+Conteúdo de Skill Sets.
+
+## Work {#work-section}
+<!-- Conteúdo da seção Work vai aqui -->
+Conteúdo de Work.

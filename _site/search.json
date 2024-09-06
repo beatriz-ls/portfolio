@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nBeatriz Lima\n",
+    "title": "\nOi, Eu Sou a Beatriz!\n",
     "section": "",
-    "text": "Beatriz Lima"
+    "text": "Oi, Eu Sou a Beatriz!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -33,5 +33,33 @@
     "title": "Projects",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "softwares.html",
+    "href": "softwares.html",
+    "title": "Softwares",
+    "section": "",
+    "text": "Softwares"
+  },
+  {
+    "objectID": "index.html#softwares-section",
+    "href": "index.html#softwares-section",
+    "title": "\nHello, I’m Beatriz !\n",
+    "section": "Softwares",
+    "text": "Softwares\n\nConteúdo de Softwares."
+  },
+  {
+    "objectID": "index.html#skillsets-section",
+    "href": "index.html#skillsets-section",
+    "title": "\nHello, I’m Beatriz !\n",
+    "section": "Skill Sets",
+    "text": "Skill Sets\n\nConteúdo de Skill Sets."
+  },
+  {
+    "objectID": "index.html#work-section",
+    "href": "index.html#work-section",
+    "title": "\nHello, I’m Beatriz !\n",
+    "section": "Work",
+    "text": "Work\n\nConteúdo de Work."
   }
 ]

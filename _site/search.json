@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nOi, Eu Sou a Beatriz!\n",
+    "title": "\nHello, I’m Beatriz!\n",
     "section": "",
-    "text": "Oi, Eu Sou a Beatriz!"
+    "text": "Hello, I’m Beatriz!\n\n\n\n\n## Softwares\n&lt;!-- Conteúdo da seção Softwares vai aqui --&gt;\nConteúdo de Softwares.\n\n\n## Skill Sets\n&lt;!-- Conteúdo da seção Skill Sets vai aqui --&gt;\nConteúdo de Skill Sets.\n\n\n## Work\n&lt;!-- Conteúdo da seção Work vai aqui --&gt;\nConteúdo de Work."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -44,21 +44,21 @@
   {
     "objectID": "index.html#softwares-section",
     "href": "index.html#softwares-section",
-    "title": "\nHello, I’m Beatriz !\n",
+    "title": "\nHello, I’m Beatriz!\n",
     "section": "Softwares",
     "text": "Softwares\n\nConteúdo de Softwares."
   },
   {
     "objectID": "index.html#skillsets-section",
     "href": "index.html#skillsets-section",
-    "title": "\nHello, I’m Beatriz !\n",
+    "title": "\nHello, I’m Beatriz!\n",
     "section": "Skill Sets",
     "text": "Skill Sets\n\nConteúdo de Skill Sets."
   },
   {
     "objectID": "index.html#work-section",
     "href": "index.html#work-section",
-    "title": "\nHello, I’m Beatriz !\n",
+    "title": "\nHello, I’m Beatriz!\n",
     "section": "Work",
     "text": "Work\n\nConteúdo de Work."
   }

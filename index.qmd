@@ -5,21 +5,26 @@ format:
     css: styles.css
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h1 style="font-size: 4rem; text-align: center;"> Hello,
-  I'm Beatriz !</h1>
+<div class="entry-page">
+  <h1>Hello, I'm Beatriz!</h1>
 </div>
 
+<div class="page-content">
+  <div id="softwares-section" class="section">
+    ## Softwares
+    <!-- Conteúdo da seção Softwares vai aqui -->
+    Conteúdo de Softwares.
+  </div>
 
+  <div id="skillsets-section" class="section">
+    ## Skill Sets
+    <!-- Conteúdo da seção Skill Sets vai aqui -->
+    Conteúdo de Skill Sets.
+  </div>
 
-## Softwares {#softwares-section}
-<!-- Conteúdo da seção Softwares vai aqui -->
-Conteúdo de Softwares.
-
-## Skill Sets {#skillsets-section}
-<!-- Conteúdo da seção Skill Sets vai aqui -->
-Conteúdo de Skill Sets.
-
-## Work {#work-section}
-<!-- Conteúdo da seção Work vai aqui -->
-Conteúdo de Work.
+  <div id="work-section" class="section">
+    ## Work
+    <!-- Conteúdo da seção Work vai aqui -->
+    Conteúdo de Work.
+  </div>
+</div>

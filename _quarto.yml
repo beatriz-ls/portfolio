@@ -11,11 +11,11 @@ website:
         href: https://linkedin.com
     right:
       - text: Softwares
-        href: index.qmd#softwares
+        href: index.qmd#softwares-section
       - text: Skill Sets
-        href: index.qmd#skillsets
+        href: index.qmd#skillsets-section
       - text: Work
-        href: index.qmd#work
+        href: index.qmd#work-section
       - text: Projects
         href: projects.qmd
       - about.qmd
@@ -23,7 +23,6 @@ website:
         href: resume.qmd
 format:
   html:
-    theme: minty
     css: styles.css
 editor: visual
 

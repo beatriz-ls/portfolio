@@ -1,5 +1,4 @@
-/* css styles */
-
+/* Fonte Personalizada */
 @font-face {
   font-family: 'Carlo';
   src: url('fonts/Carlo.otf') format('opentype'),
@@ -8,50 +7,93 @@
   font-style: normal;
 }
 
-header {
+/* Geral */
+html, body{
+  scroll-behavior: smooth;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #FAF5E0; /* Cor de fundo geral */
+}
+
+
+/* Estilo do Header */
+#quarto-header {
+  font-family: 'Carlo', sans-serif;
+  background-color: #FAF5E0 !important; /* Cor de fundo do header */
+  color: #087167; /* Cor do texto do header */
+}
+
+/* Barra de Navegação dentro do Header */
+#quarto-header .navbar {
+  background-color: #FAF5E0 !important; /* Cor de fundo da barra de navegação */
+}
+
+#quarto-header .navbar .nav-link {
+  color: #087167 !important; /* Cor dos links de navegação */
+}
+
+#quarto-header .navbar .nav-link:hover {
+  color: #5A9C8F !important; /* Cor dos links ao passar o mouse */
+}
+
+#quarto-header .navbar-title {
+  font-size: 24px !important; /* Tamanho do título */
+  color: #087167 !important; /* Cor do título */
+}
+
+/* Restabelece a fonte para o body e texto geral */
+body, h1, h2, h3, h4, h5, h6 {
   font-family: 'Carlo', sans-serif;
 }
 
+/* Links de Navegação */
 header nav a {
   font-family: 'Carlo', sans-serif;
   text-decoration: none;
+  font-size: 22px; /* Tamanho da fonte para os links de navegação */
 }
 
 header nav a:hover {
   text-decoration: underline;
 }
 
-h1, h2, h3, h4, h5, h6 {
+/* Página de Entrada */
+.entry-page {
+  background-color: #FAF5E0; /* Cor de fundo da página de entrada */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Altura da viewport */
   font-family: 'Carlo', sans-serif;
 }
 
-/* Ajusta o tamanho da fonte para os itens de navegação (se necessário) */
-header nav a {
-  font-size: 22px; /* Tamanho da fonte para os links de navegação */
+/* Wrapper para o conteúdo das páginas */
+.page-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Garante altura mínima da viewport */
+  V
 }
 
-
-html {
-  scroll-behavior: smooth;
-}
-
-/* Seção Softwares */
-#softwares-section {
-  background-color: #f0f8ff; /* Cor de fundo azul clara */
-  height: 800px; /* Altura definida */
-  padding: 20px; /* Espaçamento interno */
-}
-
-/* Seção Skill Sets */
-#skillsets-section {
-  background-color: #faebd7; /* Cor de fundo bege */
-  height: 600px; /* Altura menor */
+/* Seções */
+.section {
+  flex: 1; /* Faz com que as seções se expandam para preencher o espaço disponível */
   padding: 20px;
+  box-sizing: border-box;
 }
 
-/* Seção Work */
+/* Seções específicas com fundo colorido */
+#softwares-section {
+  background-color: #86C7D6; /* Cor de fundo azul clara */
+}
+
+#skillsets-section {
+  background-color: #E68B67; /* Cor de fundo bege */
+}
+
 #work-section {
   background-color: #e6e6fa; /* Cor de fundo lavanda */
-  height: 700px; /* Altura média */
-  padding: 20px;
 }
+
+

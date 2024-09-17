@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "Beatriz Lima Silveira"
+  title: "Beatriz Lima"
+  #favicon: {{< fa lemon title="a lemon" >}}
   navbar:
     left: 
       - icon: github
@@ -10,19 +11,20 @@ website:
       - icon: linkedin
         href: https://linkedin.com
     right:
-      - text: Softwares
-        href: index.qmd#softwares-section
-      - text: Skill Sets
-        href: index.qmd#skillsets-section
-      - text: Work
-        href: index.qmd#work-section
-      - text: Projects
-        href: projects.qmd
       - about.qmd
+      - text: Portfolio
+        href: portfolio.qmd
+      - text: Blog
+        href: blog.qmd 
       - text: CV
         href: resume.qmd
+  page-footer: 
+    background: light
+    left: Website build with [Quarto](https://quarto.org/){target=_blank}
+    right: Copyright 2024, Beatriz Lima
 format:
   html:
-    css: styles.css
+    theme: mystyles.scss
+    mainfont: Courier Prime
 editor: visual
 

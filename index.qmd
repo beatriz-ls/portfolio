@@ -1,30 +1,21 @@
 ---
 title: ""
-format: 
-  html:
-    css: styles.css
+about: 
+  template: jolla
+  image: images/profile.jpeg
+  image-width: 18em
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/beatriz-ls
+    - icon: linkedin
+      text: Linkedin
+      href: https://linkedin.com
+    - icon: envelope
+      text: Email
+      href: mailto:beatrizlimasilveira@gmail.com
 ---
 
-<div class="entry-page">
-  <h1>Hello, I'm Beatriz!</h1>
-</div>
 
-<div class="page-content">
-  <div id="softwares-section" class="section">
-    ## Softwares
-    <!-- Conteúdo da seção Softwares vai aqui -->
-    Conteúdo de Softwares.
-  </div>
-
-  <div id="skillsets-section" class="section">
-    ## Skill Sets
-    <!-- Conteúdo da seção Skill Sets vai aqui -->
-    Conteúdo de Skill Sets.
-  </div>
-
-  <div id="work-section" class="section">
-    ## Work
-    <!-- Conteúdo da seção Work vai aqui -->
-    Conteúdo de Work.
-  </div>
-</div>
+Welcome to my website! I'm Beatriz Lima {{< fa lemon title="a lemon" >}} , a future statistician and data scientist, currently pursuing an undergraduate degree at Universidade Federal do Espírito Santo. I have a strong interest in public data.

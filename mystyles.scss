@@ -1,0 +1,71 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet');
+
+// Colors
+$mint-cream: #F2F8F6;
+$rose-taupe: #B4647C;
+$jungle-green: #4F8464;
+$blackcurrant: #252B21;
+
+// Base document colors
+$navbar-bg: $jungle-green; // navbar
+$navbar-fg: $mint-cream; // navbar foreground elements
+$navbar-hl: $rose-taupe; // highlight color when hovering over navbar links
+$body-bg: $mint-cream; // page background 
+$body-color: $blackcurrant; // page text 
+$footer-bg: $jungle-green; // footer 
+$link-color: $rose-taupe; // hyperlinks 
+
+// text fonts definition
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Courier Prime', monospace;
+}
+
+header, header * {
+  font-family: 'Courier Prime', monospace !important;
+}
+
+body, p, a, li, span {
+  font-family: 'Poppins', sans-serif;
+}
+
+i {
+  //font-size: 20px;
+  color: $rose-taupe;  
+}
+
+.column-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.column {
+  width: 48%; 
+}
+
+.daslab_logo{
+  width: 100%; 
+  max-width: 350px; 
+}
+
+
+.oobr_logo {
+  width: 100%;
+  max-width: 250px;
+}
+
+
+.rladies_logo{
+  width: 100%;
+  max-width: 180px;
+}
+
+
+.rbras_logo{
+  width: 100%; 
+  max-width: 300px;
+}
+

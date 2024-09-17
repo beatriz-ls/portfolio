@@ -1,15 +1,47 @@
 ---
 title: "About"
-image: profile.jpeg
-about:
-  template: trestles
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+subtitle: "My life so far, interests and goals"
+title-block-banner: true
 ---
 
-About this blog
+## {{< fa graduation-cap title="a graduation cap" >}} Data science and me
+
+As a Statistics student at Universidade Federal do Espirito Santo, I have developed strong skills in manipulation, modeling, and interpretation of data across various domains. Currently, I am focused on visualizing public health data related to pregnant women as part of my work at the [Observatório Obstétrico Brasileiro](https://observatorioobstetricobr.org/) developed by [Daslab](https://daslab-ufes.github.io/). I'm actively involved with the [R-Ladies Vix](https://rladies.org/), a group dedicated in promotes gender diversity in the R community.
+
+I'm naturally curious, and I believe my constant desire to understand the world around me is what drew me to this profession.
+
+In addition to studying statistical theories and computational modeling, I'm also learning HTML and CSS to enhance the aesthetic quality of my interactive reports and dashboard panels.
+
+To learn more about the projects I am involved in, please visit the following laboratory/organization websites:
+
+::: {.column-container}
+::: {.column}
+[<img src="images/daslab_logo.png" alt="Daslab Logo" class="daslab_logo">](https://daslab-ufes.github.io/)
+:::
+  
+::: {.column}
+[<img src="images/oobr_logo.png" alt="Oobr Logo" class="oobr_logo">](https://observatorioobstetricobr.org/)
+:::
+:::
+
+::: {.column-container}
+::: {.column}
+[<img src="images/r-ladiesvix_logo.png" alt="R Ladies Logo" class="rladies_logo">](https://rladies.org/)
+:::
+  
+::: {.column}
+[<img src="images/Rbras_2025_logo.png" alt="RBras Logo" class="rbras_logo">](https://www.rbras.org.br/)
+:::
+:::
+
+## {{< fa laptop title="a laptop" >}} Tech Stack
+
+
+
+## {{< fa book-open title="a book" >}} Skills
+
+## {{< fa globe title="a globe" >}} Languages
+
+## {{< fa lemon title="a lemon" >}} My hobbies
+
+

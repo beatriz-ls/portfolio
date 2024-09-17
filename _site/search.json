@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nHello, I’m Beatriz!\n",
+    "title": "Beatriz Lima",
     "section": "",
-    "text": "Hello, I’m Beatriz!\n\n\n\n\n## Softwares\n&lt;!-- Conteúdo da seção Softwares vai aqui --&gt;\nConteúdo de Softwares.\n\n\n## Skill Sets\n&lt;!-- Conteúdo da seção Skill Sets vai aqui --&gt;\nConteúdo de Skill Sets.\n\n\n## Work\n&lt;!-- Conteúdo da seção Work vai aqui --&gt;\nConteúdo de Work."
+    "text": "Welcome to my website! I’m Beatriz Lima  , a future statistician and data scientist, currently pursuing an undergraduate degree at Universidade Federal do Espírito Santo. I have a strong interest in public data."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "As a Statistics student at Universidade Federal do Espirito Santo, I have developed strong skills in manipulation, modeling, and interpretation of data across various domains. Currently, I am focused on visualizing public health data related to pregnant women as part of my work at the Observatório Obstétrico Brasileiro developed by Daslab. I’m actively involved with the R-Ladies Vix, a group dedicated in promotes gender diversity in the R community.\nI’m naturally curious, and I believe my constant desire to understand the world around me is what drew me to this profession.\nIn addition to studying statistical theories and computational modeling, I’m also learning HTML and CSS to enhance the aesthetic quality of my interactive reports and dashboard panels.\nTo learn more about the projects I am involved in, please visit the following laboratory/organization websites:"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -61,5 +61,82 @@
     "title": "\nHello, I’m Beatriz!\n",
     "section": "Work",
     "text": "Work\n\nConteúdo de Work."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#data-science-and-me",
+    "href": "about.html#data-science-and-me",
+    "title": "About",
+    "section": "",
+    "text": "As a Statistics student at Universidade Federal do Espirito Santo, I have developed strong skills in data manipulation, modeling, and interpretation across various domains. Currently, I am focused on visualizing public health data related to pregnant women as part of my work at the Daslab.\nI am naturally curious, and I believe my constant desire to understand the world around me is what drew me to this profession.\nIn addition to studying statistical theories and computational modeling, I am also learning HTML and CSS to enhance the aesthetic quality of interactive reports and dashboard panels."
+  },
+  {
+    "objectID": "about.html#tech-stack",
+    "href": "about.html#tech-stack",
+    "title": "About",
+    "section": "Tech Stack",
+    "text": "Tech Stack"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About",
+    "section": "Languages",
+    "text": "Languages"
+  },
+  {
+    "objectID": "about.html#my-hobbies",
+    "href": "about.html#my-hobbies",
+    "title": "About",
+    "section": "My hobbies",
+    "text": "My hobbies"
+  },
+  {
+    "objectID": "about.html#fa-graduation-cap-titlea-graduation-cap-data-science-and-me",
+    "href": "about.html#fa-graduation-cap-titlea-graduation-cap-data-science-and-me",
+    "title": "About",
+    "section": "",
+    "text": "As a Statistics student at Universidade Federal do Espirito Santo, I have developed strong skills in manipulation, modeling, and interpretation of data across various domains. Currently, I am focused on visualizing public health data related to pregnant women as part of my work at the Observatório Obstétrico Brasileiro developed by Daslab. I’m actively involved with the R-Ladies Vix, a group dedicated in promotes gender diversity in the R community.\nI’m naturally curious, and I believe my constant desire to understand the world around me is what drew me to this profession.\nIn addition to studying statistical theories and computational modeling, I’m also learning HTML and CSS to enhance the aesthetic quality of my interactive reports and dashboard panels.\nTo learn more about the projects I am involved in, please visit the following laboratory/organization websites:"
+  },
+  {
+    "objectID": "about.html#fa-laptop-titlea-laptop-tech-stack",
+    "href": "about.html#fa-laptop-titlea-laptop-tech-stack",
+    "title": "About",
+    "section": " Tech Stack",
+    "text": "Tech Stack"
+  },
+  {
+    "objectID": "about.html#fa-book-open-titlea-book-skills",
+    "href": "about.html#fa-book-open-titlea-book-skills",
+    "title": "About",
+    "section": " Skills",
+    "text": "Skills"
+  },
+  {
+    "objectID": "about.html#fa-globe-titlea-globe-languages",
+    "href": "about.html#fa-globe-titlea-globe-languages",
+    "title": "About",
+    "section": " Languages",
+    "text": "Languages"
+  },
+  {
+    "objectID": "about.html#fa-lemon-titlea-lemon-my-hobbies",
+    "href": "about.html#fa-lemon-titlea-lemon-my-hobbies",
+    "title": "About",
+    "section": " My hobbies",
+    "text": "My hobbies"
   }
 ]

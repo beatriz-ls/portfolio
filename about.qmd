@@ -34,13 +34,74 @@ To learn more about the projects I am involved in, please visit the following la
 :::
 :::
 
+
 ## {{< fa laptop title="a laptop" >}} Tech Stack
 
+::: {.column-container}
+::: {.column1}
+[<img src="images/R_logo.png" alt="R Logo" class="r_logo">](https://www.r-project.org/)
+:::
+  
+::: {.column1}
+[<img src="images/python_logo.png" alt="Python Logo" class="python_logo">](https://www.python.org/)
+:::
 
+::: {.column1}
+[<img src="images/postgresql_logo.png" alt="SQL Logo" class="sql_logo">](https://www.postgresql.org/)
+:::
+:::
+
+::: {.column-container}
+::: {.column1}
+[<img src="images/git_logo.png" alt="Git Logo" class="git_logo">](https://git-scm.com/)
+:::
+  
+::: {.column1}
+[<img src="images/github_logo.png" alt="Github Logo" class="github_logo">](https://www.python.org/)
+:::
+
+::: {.column1}
+[<img src="images/excel_logo.png" alt="Excel Logo" class="excel_logo">](https://www.postgresql.org/)
+:::
+:::
 
 ## {{< fa book-open title="a book" >}} Skills
 
+::: {.column-container}
+
+::: {.column}
+ - Statistical Inference
+ - Exploratory Data Analysis (EDA)
+ - Multivariate Analysis
+ - Hypothesis Testing
+ - Nonparametric Statistics
+ - Regression Analysis
+ - Survival Analysis
+ - Generalized Linear Models
+:::
+  
+::: {.column}
+ - Probability Theory
+ - Linear Algebra
+ - Calculus
+ - Operational Research
+ - Stochastic Processes
+ - Bio-inspired search algorithms
+:::
+:::
+
+
 ## {{< fa globe title="a globe" >}} Languages
+
+{{< fa star title="a star" >}} Portuguese
+ native
+
+{{< fa star title="a star" >}} English
+fluent
+
+{{< fa star title="a star" >}} Spanish
+basic
+
 
 ## {{< fa lemon title="a lemon" >}} My hobbies
 

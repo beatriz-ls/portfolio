@@ -9,7 +9,9 @@ website:
       - icon: github
         href: https://github.com/beatriz-ls
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/beatriz-lima-silveira/
+      - icon: envelope
+        href: mailto:beatrizlimasilveira@gmail.com
     right:
       - about.qmd
       - text: Portfolio
@@ -17,7 +19,7 @@ website:
       - text: Blog
         href: blog.qmd 
       - text: CV
-        href: resume.qmd
+        href: assets/CV.pdf
   page-footer: 
     background: light
     left: Website build with [Quarto](https://quarto.org/){target=_blank}

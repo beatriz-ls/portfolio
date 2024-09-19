@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: blog_posts
+  sort: "date desc"
+  type: default
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

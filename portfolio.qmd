@@ -1,11 +1,16 @@
 ---
 title: "Portfolio"
 listing:
-  contents: posts
+  contents: portfolio_projects
   sort: "date desc"
-  type: default
+  type: grid
   sort-ui: false
   filter-ui: false
+  grid-columns: 3
+  grid-item-align: center
+  fields: 
+    - title
+    - image
 page-layout: full
 title-block-banner: true
 ---

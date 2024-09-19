@@ -8,14 +8,15 @@ $mint-cream: #F2F8F6;
 $rose-taupe: #B4647C;
 $jungle-green: #4F8464;
 $blackcurrant: #252B21;
+$green: #8BC19B;
 
 // Base document colors
-$navbar-bg: $jungle-green; // navbar
+$navbar-bg: $green; // navbar
 $navbar-fg: $mint-cream; // navbar foreground elements
 $navbar-hl: $rose-taupe; // highlight color when hovering over navbar links
 $body-bg: $mint-cream; // page background 
 $body-color: $blackcurrant; // page text 
-$footer-bg: $jungle-green; // footer 
+$footer-bg: $green; // footer
 $link-color: $rose-taupe; // hyperlinks 
 
 // text fonts definition
@@ -102,4 +103,3 @@ i {
   width: 100%; 
   max-width: 100px;
 }
-

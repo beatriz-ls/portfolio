@@ -93,16 +93,12 @@ To learn more about the projects I am involved in, please visit the following la
 
 ## {{< fa globe title="a globe" >}} Languages
 
-{{< fa star title="a star" >}} Portuguese
- native
+{{< fa star title="a star" >}} Portuguese - native
 
-{{< fa star title="a star" >}} English
-fluent
+{{< fa star title="a star" >}} English - fluent
 
-{{< fa star title="a star" >}} Spanish
-basic
-
+{{< fa star title="a star" >}} Spanish - basic
 
 ## {{< fa lemon title="a lemon" >}} My hobbies
 
-
+In my (short and increasingly rare) free time from academic and scientific life, you'll find me either picking up a new book to read or crocheting amigurumis. I’m fortunate to live in a coastal city with beautiful landscapes and beaches, where I enjoy going out with friends and family. On weekends, I try to go rollerblading by the beach to clear my mind.

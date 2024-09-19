@@ -3,9 +3,12 @@ project:
 
 website:
   title: "Beatriz Lima"
-  #favicon: {{< fa lemon title="a lemon" >}}
+  favicon: images/lemon_icon.png
   navbar:
-    left: 
+    title: "Beatriz Lima"
+    logo: images/lemon_icon.png
+    #logo-alt: "Beatriz Lima"
+    left:
       - icon: github
         href: https://github.com/beatriz-ls
       - icon: linkedin
@@ -28,5 +31,6 @@ format:
   html:
     theme: mystyles.scss
     mainfont: Courier Prime
+    fontawesome: true
 editor: visual
 

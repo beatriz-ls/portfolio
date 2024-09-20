@@ -16,21 +16,31 @@ website:
       - icon: envelope
         href: mailto:beatrizlimasilveira@gmail.com
     right:
-      - about.qmd
-      - text: Portfolio
-        href: portfolio.qmd
-      - text: Blog
-        href: blog.qmd 
+      - text: About
+        href: about.qmd
       - text: CV
         href: assets/CV.pdf
   page-footer: 
     background: light
     left: Website build with [Quarto](https://quarto.org/){target=_blank}
     right: Copyright 2024, Beatriz Lima
+    
 format:
   html:
     theme: mystyles.scss
     mainfont: Courier Prime
     fontawesome: true
-editor: visual
+    
+babelquarto:
+  languagelink: sidebar
+  languagecodes:
+  - name: en
+    text: "English"
+  - name: pt
+    text: "Português"
+  mainlanguage: 'en'
+  languages: ['pt']
+lang: en
+
+#editor: visual
 

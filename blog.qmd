@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+#subtitle: Tutorials, 
 listing:
   contents: blog_posts
   sort: "date desc"

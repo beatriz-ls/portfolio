@@ -89,54 +89,5 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.pt.html",
-    "href": "index.pt.html",
-    "title": "Beatriz Lima",
-    "section": "",
-    "text": "Bem vindo ao meu website! Eu sou Beatriz Lima , futura estatística e ciêntista de dados, atualmente cursando na Universidade Federal do Espirito Santo."
-  },
-  {
-    "objectID": "about.pt.html",
-    "href": "about.pt.html",
-    "title": "Sobre Mim",
-    "section": "",
-    "text": "Como estudante de Estatística na Universidade Federal do Espírito Santo, desenvolvi habilidades sólidas em manipulação, modelagem e interpretação de dados em diversos domínios. Atualmente, estou focada na visualização de dados de saúde pública relacionados a mulheres grávidas como parte do meu trabalho no Observatório Obstétrico Brasileiro desenvolvido pelo Daslab. Estou ativamente envolvida com o grupo R-Ladies Vix, que promove a diversidade de gênero na comunidade R.\nSou naturalmente curiosa e acredito que meu constante desejo de entender o mundo ao meu redor foi o que me atraiu para essa profissão.\nAlém de estudar teorias estatísticas e modelagem computacional, também estou aprendendo HTML e CSS para aprimorar a qualidade estética dos meus relatórios interativos e painéis de controle.\nPara saber mais sobre os projetos nos quais estou envolvida, visite os seguintes sites de laboratórios/organizações:"
-  },
-  {
-    "objectID": "about.pt.html#fa-graduation-cap-titlea-graduation-cap-ciência-de-dados-e-eu",
-    "href": "about.pt.html#fa-graduation-cap-titlea-graduation-cap-ciência-de-dados-e-eu",
-    "title": "Sobre Mim",
-    "section": "",
-    "text": "Como estudante de Estatística na Universidade Federal do Espírito Santo, desenvolvi habilidades sólidas em manipulação, modelagem e interpretação de dados em diversos domínios. Atualmente, estou focada na visualização de dados de saúde pública relacionados a mulheres grávidas como parte do meu trabalho no Observatório Obstétrico Brasileiro desenvolvido pelo Daslab. Estou ativamente envolvida com o grupo R-Ladies Vix, que promove a diversidade de gênero na comunidade R.\nSou naturalmente curiosa e acredito que meu constante desejo de entender o mundo ao meu redor foi o que me atraiu para essa profissão.\nAlém de estudar teorias estatísticas e modelagem computacional, também estou aprendendo HTML e CSS para aprimorar a qualidade estética dos meus relatórios interativos e painéis de controle.\nPara saber mais sobre os projetos nos quais estou envolvida, visite os seguintes sites de laboratórios/organizações:"
-  },
-  {
-    "objectID": "about.pt.html#fa-laptop-titlea-laptop-stack-tecnológico",
-    "href": "about.pt.html#fa-laptop-titlea-laptop-stack-tecnológico",
-    "title": "Sobre Mim",
-    "section": " Stack Tecnológico",
-    "text": "Stack Tecnológico"
-  },
-  {
-    "objectID": "about.pt.html#fa-book-open-titlea-book-habilidades",
-    "href": "about.pt.html#fa-book-open-titlea-book-habilidades",
-    "title": "Sobre Mim",
-    "section": " Habilidades",
-    "text": "Habilidades\n\n\n\nInferência Estatística\nAnálise Exploratória de Dados (EDA)\nAnálise Multivariada\nTeste de Hipóteses\nEstatística Não Paramétrica\nAnálise de Regressão\nAnálise de Sobrevivência\nModelos Lineares Generalizados\n\n\n\n\nTeoria das Probabilidades\nÁlgebra Linear\nCálculo\nPesquisa Operacional\nProcessos Estocásticos\nAlgoritmos de busca bioinspirados"
-  },
-  {
-    "objectID": "about.pt.html#fa-globe-titlea-globe-idiomas",
-    "href": "about.pt.html#fa-globe-titlea-globe-idiomas",
-    "title": "Sobre Mim",
-    "section": " Idiomas",
-    "text": "Idiomas\n Português - nativo\n Inglês - fluente\n Espanhol - básico"
-  },
-  {
-    "objectID": "about.pt.html#fa-lemon-titlea-lemon-meus-hobbies",
-    "href": "about.pt.html#fa-lemon-titlea-lemon-meus-hobbies",
-    "title": "Sobre Mim",
-    "section": " Meus hobbies",
-    "text": "Meus hobbies\nNo meu (pouco e cada vez mais raro) tempo livre da vida acadêmica e científica, você me encontrará lendo um novo livro ou fazendo crochê de amigurumis. Tenho a sorte de viver em uma cidade costeira com belas paisagens e praias, onde gosto de sair com amigos e família. Nos finais de semana, tento andar de patins pela praia para clarear a mente."
   }
 ]

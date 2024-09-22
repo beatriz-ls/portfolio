@@ -32,7 +32,7 @@ format:
     fontawesome: true
     
 babelquarto:
-  languagelink: sidebar
+  languagelink: navbar
   languagecodes:
   - name: en
     text: "English"

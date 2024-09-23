@@ -18,6 +18,10 @@ website:
     right:
       - text: About
         href: about.qmd
+      #- text: Portfolio
+      #  href: portfolio.qmd
+      #- text: Blog
+      #  href: blog.qmd
       - text: CV
         href: assets/CV.pdf
   page-footer: 

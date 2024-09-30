@@ -17,4 +17,10 @@ about:
       href: mailto:beatrizlimasilveira@gmail.com
 ---
 
+::: {.content-visible when-profile="english"}
 Welcome to my website! I'm Beatriz Lima {{< fa lemon title="a lemon" >}} , a future statistician and data scientist, currently pursuing an undergraduate degree at Universidade Federal do Espírito Santo. I have a strong interest in public data.
+:::
+
+::: {.content-visible when-profile="portugues"}
+Bem vindo ao meu website! Eu sou Beatriz Lima {{< fa lemon title="a lemon" >}}, futura estatística e ciêntista de dados, atualmente cursando na Universidade Federal do Espirito Santo.
+:::
